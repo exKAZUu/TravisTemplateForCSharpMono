@@ -1,7 +1,8 @@
 TravisTemplateForMono
 =====================
 
-# Changes from Original ```NuGet.targets```
+## Changes from Original ```NuGet.targets```
+
 
 ```
     <PropertyGroup Condition=" '$(OS)' != 'Windows_NT'">
