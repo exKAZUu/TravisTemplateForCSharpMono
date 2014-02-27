@@ -1,4 +1,4 @@
-TravisTemplateForMono
+TravisTemplateForMono  [![Build Status](https://secure.travis-ci.org/exKAZUu/TravisTemplateForMono.png?branch=master)](http://travis-ci.org/exKAZUu/TravisTemplateForMono)
 =====================
 
 ### Changes from Original ```NuGet.targets```
